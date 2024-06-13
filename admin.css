@@ -1,0 +1,25 @@
+/* Estilo para tabela de inscrições */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* Estilo para botões de ação */
+form button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+}
